@@ -1,0 +1,13 @@
+.lesson {
+  display: flex;
+  align-items: center;
+  /* grid-template-columns: min-content max-content 1fr; */
+  gap: 10px;
+  padding: 10px 10px;
+  border: 1px solid #ffff;
+  border-radius: 5px;
+}
+
+.lessonItem {
+  width: 100%;
+}
